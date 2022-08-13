@@ -1,11 +1,9 @@
 name: flutter_window
 description: Emulates the operating system window, which can be zoomed and dragged.
-authors:
-  - Giam
 repository: https://github.com/giamchen/flutter_window
 homepage: https://github.com/giamchen/flutter_window
 
-version: 1.0.0+1
+version: 1.0.0
 
 environment:
   sdk: ">=2.17.3 <3.0.0"
